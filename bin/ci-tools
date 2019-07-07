@@ -1,0 +1,50 @@
+#!/bin/sh
+
+printCommands()
+{
+    echo "PHP ci tools"
+    echo
+    echo "Usage:"
+    echo " ci-tools [commands]"
+    echo
+    echo "Commands:"
+    for i in ${list}; do
+        echo " - $i"
+    done
+    echo
+}
+
+checkCommands()
+{
+    isValid=0
+    for i in ${list}; do
+        if [ "$i" = "$1" ]
+        then
+            isValid=1
+        fi
+    done
+
+    if [ "$isValid" -eq 0 ]
+    then
+        echo "Command not found"
+        exit 1
+    fi
+}
+
+PARAMETERS="$@"
+
+list="composer-require-checker phpcbf phpstan php-cs-fixer phpcs"
+
+if [ -z "$PARAMETERS" ]
+then
+    printCommands
+    exit
+fi
+
+checkCommands $1
+
+for i in ${list}; do
+    PARAMETERS=$(echo ${PARAMETERS} | sed "s/$i/vendor\/adlacruzes\/php-ci-tools\/tools\/$i/g")
+done
+
+${PARAMETERS}

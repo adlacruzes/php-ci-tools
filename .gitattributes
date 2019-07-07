@@ -1,0 +1,6 @@
+/.docker                    export-ignore
+/.editorconfig              export-ignore
+/.gitattributes             export-ignore
+/docker-compose.yml         export-ignore
+/phive.xml                  export-ignore
+/README.md                  export-ignore

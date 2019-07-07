@@ -1,0 +1,26 @@
+{
+    "name": "adlacruzes/php-ci-tools",
+    "type": "library",
+    "description": "PHP continuous integration tools",
+    "keywords": [
+        "tools",
+        "ci",
+        "qa"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrés De la Cruz Escrig"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "bin": [
+        "bin/ci-tools"
+    ],
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
