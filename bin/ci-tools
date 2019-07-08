@@ -47,4 +47,6 @@ for i in ${list}; do
     PARAMETERS=$(echo ${PARAMETERS} | sed "s/$i/vendor\/adlacruzes\/php-ci-tools\/tools\/$i/g")
 done
 
+PARAMETERS=$(echo ${PARAMETERS} | sed "s/vendor\/adlacruzes\/php-ci-tools\/tools\/phpstan/vendor\/bin\/phpstan/g")
+
 ${PARAMETERS}
