@@ -33,7 +33,7 @@ checkCommands()
 
 PARAMETERS="$@"
 
-list="composer-require-checker phpcbf phpstan php-cs-fixer phpcs"
+list="composer-require-checker phpcbf phpstan php-cs-fixer phpcs security-checker"
 
 if [ -z "$PARAMETERS" ]
 then
