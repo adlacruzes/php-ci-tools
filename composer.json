@@ -21,11 +21,11 @@
         "phpstan/phpstan-phpunit": "^0.11.2",
         "phpstan/phpstan-strict-rules": "^0.11.1"
     },
-    "bin": [
-        "bin/ci-tools"
-    ],
     "config": {
         "optimize-autoloader": true,
         "sort-packages": true
-    }
+    },
+    "bin": [
+        "bin/ci-tools"
+    ]
 }
