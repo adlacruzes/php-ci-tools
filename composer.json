@@ -15,6 +15,7 @@
     ],
     "require": {
         "php": "^7.2",
+        "localheinz/composer-normalize": "^1.2",
         "phpstan/phpstan-deprecation-rules": "^0.11.2",
         "phpstan/phpstan-doctrine": "^0.11.5",
         "phpstan/phpstan-phpunit": "^0.11.2",
