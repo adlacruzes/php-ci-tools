@@ -28,5 +28,23 @@
     },
     "bin": [
         "bin/ci-tools"
-    ]
+    ],
+    "scripts": {
+        "ci": [
+            "@composer-normalize",
+            "@composer-require-checker",
+            "@php-cs-fixer",
+            "@phpcbf",
+            "@phpcs",
+            "@phpstan",
+            "@security-checker"
+        ],
+        "composer-normalize": "composer normalize --version",
+        "composer-require-checker": "tools/composer-require-checker --version",
+        "php-cs-fixer": "tools/php-cs-fixer --version",
+        "phpcbf": "tools/phpcbf --version",
+        "phpcs": "tools/phpcs --version",
+        "phpstan": "vendor/bin/phpstan --version",
+        "security-checker": "tools/security-checker --version"
+    }
 }
