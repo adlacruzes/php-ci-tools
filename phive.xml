@@ -4,4 +4,5 @@
   <phar name="phpcbf" version="^3.4.2" installed="3.4.2" location="./tools/phpcbf" copy="true"/>
   <phar name="php-cs-fixer" version="^2.15.3" installed="2.15.3" location="./tools/php-cs-fixer" copy="true"/>
   <phar name="composer-require-checker" version="^2.0.0" installed="2.0.0" location="./tools/composer-require-checker" copy="true"/>
+  <phar name="infection" version="^0.13.6" installed="0.13.6" location="./tools/infection" copy="true"/>
 </phive>
