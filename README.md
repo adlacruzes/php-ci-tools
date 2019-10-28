@@ -34,7 +34,7 @@ vendor/bin/ci-tools COMMAND
 | infection                  | 0.14.1      | ✓      | https://github.com/infection/infection
 | php-cs-fixer               | 2.15.3      | ✓      | https://github.com/FriendsOfPHP/PHP-CS-Fixer
 | php-parallel-lint          | master      | ✓      | https://github.com/JakubOnderka/PHP-Parallel-Lint
-| phpcbf                     | 3.5.1       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
-| phpcs                      | 3.5.1       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
+| phpcbf                     | 3.5.2       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
+| phpcs                      | 3.5.2       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
 | phpstan                    | 0.11.19     |        | https://github.com/phpstan/phpstan
 | security-checker           | 6.0         | ✓      | https://github.com/sensiolabs/security-checker
