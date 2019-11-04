@@ -27,7 +27,7 @@ vendor/bin/ci-tools COMMAND
 
 ## Commands
 
-| Command                    | Version     | Phar | Link
+| Command                    | Version     | Phar   | Link
 | ---                        | :---:       | :---:  | --- |
 | composer-normalize         | 1.3.1       |        | https://github.com/localheinz/composer-normalize
 | composer-require-checker   | 2.0.0       | ✓      | https://github.com/maglnet/ComposerRequireChecker
@@ -37,4 +37,4 @@ vendor/bin/ci-tools COMMAND
 | phpcbf                     | 3.5.2       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
 | phpcs                      | 3.5.2       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
 | phpstan                    | 0.11.19     |        | https://github.com/phpstan/phpstan
-| security-checker           | 6.0         | ✓      | https://github.com/sensiolabs/security-checker
+| security-checker           | 6.0.3       | ✓      | https://github.com/sensiolabs/security-checker
