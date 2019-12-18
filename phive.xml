@@ -2,7 +2,7 @@
 <phive xmlns="https://phar.io/phive">
   <phar name="phpcs" version="^3.5.3" installed="3.5.3" location="./tools/phpcs" copy="true"/>
   <phar name="phpcbf" version="^3.5.3" installed="3.5.3" location="./tools/phpcbf" copy="true"/>
-  <phar name="php-cs-fixer" version="^2.15.3" installed="2.15.3" location="./tools/php-cs-fixer" copy="true"/>
+  <phar name="php-cs-fixer" version="^2.16.1" installed="2.16.1" location="./tools/php-cs-fixer" copy="true"/>
   <phar name="composer-require-checker" version="^2.0.0" installed="2.0.0" location="./tools/composer-require-checker" copy="true"/>
   <phar name="infection" version="^0.15" installed="0.15.0" location="./tools/infection" copy="true"/>
 </phive>
