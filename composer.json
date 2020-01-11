@@ -15,7 +15,6 @@
     ],
     "require": {
         "php": "^7.2",
-        "ergebnis/composer-normalize": "2.0.1",
         "phpstan/phpstan": "0.12.3",
         "phpstan/phpstan-deprecation-rules": "0.12.0",
         "phpstan/phpstan-doctrine": "0.12.5",
@@ -41,7 +40,7 @@
             "@phpstan",
             "@security-checker"
         ],
-        "composer-normalize": "composer normalize --version",
+        "composer-normalize": "tools/composer-normalize --version",
         "composer-require-checker": "tools/composer-require-checker --version",
         "infection": "tools/infection --version",
         "php-cs-fixer": "tools/php-cs-fixer --version",
