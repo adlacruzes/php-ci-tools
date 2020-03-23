@@ -36,5 +36,5 @@ vendor/bin/ci-tools COMMAND
 | php-parallel-lint          | master      | ✓      | https://github.com/JakubOnderka/PHP-Parallel-Lint
 | phpcbf                     | 3.5.4       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
 | phpcs                      | 3.5.4       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
-| phpstan                    | 0.12.15     |        | https://github.com/phpstan/phpstan
+| phpstan                    | 0.12.18     |        | https://github.com/phpstan/phpstan
 | security-checker           | 6.0.3       | ✓      | https://github.com/sensiolabs/security-checker
