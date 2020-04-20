@@ -32,9 +32,9 @@ vendor/bin/ci-tools COMMAND
 | composer-normalize         | 2.3.2       | ✓      | https://github.com/ergebnis/composer-normalize
 | composer-require-checker   | 2.1.0       | ✓      | https://github.com/maglnet/ComposerRequireChecker
 | infection                  | 0.15.3      | ✓      | https://github.com/infection/infection
-| php-cs-fixer               | 2.16.1      | ✓      | https://github.com/FriendsOfPHP/PHP-CS-Fixer
+| php-cs-fixer               | 2.16.3      | ✓      | https://github.com/FriendsOfPHP/PHP-CS-Fixer
 | php-parallel-lint          | master      | ✓      | https://github.com/JakubOnderka/PHP-Parallel-Lint
-| phpcbf                     | 3.5.4       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
-| phpcs                      | 3.5.4       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
-| phpstan                    | 0.12.18     |        | https://github.com/phpstan/phpstan
+| phpcbf                     | 3.5.5       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
+| phpcs                      | 3.5.5       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
+| phpstan                    | 0.12.19     |        | https://github.com/phpstan/phpstan
 | security-checker           | 6.0.3       | ✓      | https://github.com/sensiolabs/security-checker
