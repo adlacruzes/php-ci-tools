@@ -5,5 +5,5 @@
   <phar name="php-cs-fixer" version="^2.16.1" installed="2.16.5" location="./tools/php-cs-fixer" copy="true"/>
   <phar name="composer-require-checker" version="^2.1.0" installed="2.1.0" location="./tools/composer-require-checker" copy="true"/>
   <phar name="infection" version="^0.15" installed="0.15.3" location="./tools/infection" copy="true"/>
-  <phar name="composer-normalize" version="2.9.0" installed="2.9.0" location="./tools/composer-normalize" copy="false"/>
+  <phar name="composer-normalize" version="2.9.0" installed="2.9.0" location="./tools/composer-normalize" copy="true"/>
 </phive>
