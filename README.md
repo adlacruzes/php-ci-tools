@@ -29,7 +29,7 @@ vendor/bin/ci-tools COMMAND
 
 | Command                    | Version     | Phar   | Link
 | ---                        | :---:       | :---:  | --- |
-| composer-normalize         | 2.8.1       | ✓      | https://github.com/ergebnis/composer-normalize
+| composer-normalize         | 2.9.0       | ✓      | https://github.com/ergebnis/composer-normalize
 | composer-require-checker   | 2.1.0       | ✓      | https://github.com/maglnet/ComposerRequireChecker
 | infection                  | 0.15.3      | ✓      | https://github.com/infection/infection
 | php-cs-fixer               | 2.16.5      | ✓      | https://github.com/FriendsOfPHP/PHP-CS-Fixer
