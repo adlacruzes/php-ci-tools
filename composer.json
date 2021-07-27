@@ -34,20 +34,16 @@
             "@composer-require-checker",
             "@infection",
             "@php-cs-fixer",
-            "@php-parallel-lint",
             "@phpcbf",
             "@phpcs",
-            "@phpstan",
-            "@security-checker"
+            "@phpstan"
         ],
         "composer-normalize": "tools/composer-normalize --version",
         "composer-require-checker": "tools/composer-require-checker --version",
         "infection": "tools/infection --version",
         "php-cs-fixer": "tools/php-cs-fixer --version",
-        "php-parallel-lint": "tools/php-parallel-lint --version",
         "phpcbf": "tools/phpcbf --version",
         "phpcs": "tools/phpcs --version",
-        "phpstan": "vendor/bin/phpstan --version",
-        "security-checker": "tools/security-checker --version"
+        "phpstan": "vendor/bin/phpstan --version"
     }
 }
