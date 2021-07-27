@@ -1,7 +1,7 @@
 # PHP continuous integration tools
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.2-8892BF.svg?style=flat-square)](https://php.net/)
-[![Build Status](https://travis-ci.org/adlacruzes/php-ci-tools.svg?branch=master)](https://travis-ci.org/adlacruzes/php-ci-tools)
+![Github actions](https://github.com/adlacruzes/php-ci-tools/workflows/Continuous%20Integration/badge.svg?branch=master)
                  
 PHP continuous integration tools is a library with the latest versions of my favorite PHP tools.
 
@@ -33,8 +33,6 @@ vendor/bin/ci-tools COMMAND
 | composer-require-checker   | 2.1.0       | ✓      | https://github.com/maglnet/ComposerRequireChecker
 | infection                  | 0.15.3      | ✓      | https://github.com/infection/infection
 | php-cs-fixer               | 3.0.0       | ✓      | https://github.com/FriendsOfPHP/PHP-CS-Fixer
-| php-parallel-lint          | master      | ✓      | https://github.com/JakubOnderka/PHP-Parallel-Lint
 | phpcbf                     | 3.5.8       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
 | phpcs                      | 3.5.8       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
 | phpstan                    | 0.12.68     |        | https://github.com/phpstan/phpstan
-| security-checker           | 6.0.3       | ✓      | https://github.com/sensiolabs/security-checker
