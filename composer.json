@@ -15,11 +15,11 @@
     ],
     "require": {
         "php": "^7.2 || ^8.0",
-        "phpstan/phpstan": "0.12.68",
+        "phpstan/phpstan": "0.12.93",
         "phpstan/phpstan-deprecation-rules": "0.12.6",
-        "phpstan/phpstan-doctrine": "0.12.30",
-        "phpstan/phpstan-phpunit": "0.12.17",
-        "phpstan/phpstan-strict-rules": "0.12.9"
+        "phpstan/phpstan-doctrine": "0.12.42",
+        "phpstan/phpstan-phpunit": "0.12.21",
+        "phpstan/phpstan-strict-rules": "0.12.10"
     },
     "config": {
         "optimize-autoloader": true,
