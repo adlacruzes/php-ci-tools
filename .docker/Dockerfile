@@ -1,1 +1,1 @@
-FROM adlacruzes/php-ci:7.2
+FROM adlacruzes/php-ci:7.4
