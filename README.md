@@ -29,10 +29,10 @@ vendor/bin/ci-tools COMMAND
 
 | Command                    | Version     | Phar   | Link
 | ---                        | :---:       | :---:  | --- |
-| composer-normalize         | 2.9.0       | ✓      | https://github.com/ergebnis/composer-normalize
-| composer-require-checker   | 2.1.0       | ✓      | https://github.com/maglnet/ComposerRequireChecker
-| infection                  | 0.15.3      | ✓      | https://github.com/infection/infection
+| composer-normalize         | 2.15.0      | ✓      | https://github.com/ergebnis/composer-normalize
+| composer-require-checker   | 3.2.0       | ✓      | https://github.com/maglnet/ComposerRequireChecker
+| infection                  | 0.24.0      | ✓      | https://github.com/infection/infection
 | php-cs-fixer               | 3.0.0       | ✓      | https://github.com/FriendsOfPHP/PHP-CS-Fixer
-| phpcbf                     | 3.5.8       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
-| phpcs                      | 3.5.8       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
-| phpstan                    | 0.12.68     |        | https://github.com/phpstan/phpstan
+| phpcbf                     | 3.6.0       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
+| phpcs                      | 3.6.0       | ✓      | https://github.com/squizlabs/PHP_CodeSniffer
+| phpstan                    | 0.12.93     |        | https://github.com/phpstan/phpstan
