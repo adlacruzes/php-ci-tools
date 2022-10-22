@@ -29,6 +29,6 @@ vendor/bin/ci-tools COMMAND
 | composer-require-checker |  3.2.0  | https://github.com/maglnet/ComposerRequireChecker  |
 | infection                | 0.24.0  | https://github.com/infection/infection             |
 | php-cs-fixer             |  3.0.0  | https://github.com/FriendsOfPHP/PHP-CS-Fixer       |
-| phpcbf                   |  3.6.0  | https://github.com/squizlabs/PHP_CodeSniffer       |
-| phpcs                    |  3.6.0  | https://github.com/squizlabs/PHP_CodeSniffer       |
+| phpcbf                   |  3.7.1  | https://github.com/squizlabs/PHP_CodeSniffer       |
+| phpcs                    |  3.7.1  | https://github.com/squizlabs/PHP_CodeSniffer       |
 | phpstan                  | 0.12.93 | https://github.com/phpstan/phpstan                 |
