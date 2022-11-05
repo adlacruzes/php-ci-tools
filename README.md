@@ -25,7 +25,7 @@ vendor/bin/ci-tools COMMAND
 
 | Command                  | Version | Link                                               |
 |--------------------------|:-------:|:---------------------------------------------------|
-| composer-normalize       | 2.15.0  | https://github.com/ergebnis/composer-normalize     |
+| composer-normalize       | 2.28.3  | https://github.com/ergebnis/composer-normalize     |
 | composer-require-checker |  3.2.0  | https://github.com/maglnet/ComposerRequireChecker  |
 | infection                | 0.24.0  | https://github.com/infection/infection             |
 | php-cs-fixer             | 3.13.0  | https://github.com/FriendsOfPHP/PHP-CS-Fixer       |
