@@ -1,13 +1,13 @@
 {
     "name": "adlacruzes/php-ci-tools",
-    "type": "library",
     "description": "PHP continuous integration tools",
+    "license": "MIT",
+    "type": "library",
     "keywords": [
         "tools",
         "ci",
         "qa"
     ],
-    "license": "MIT",
     "authors": [
         {
             "name": "Andrés De la Cruz Escrig"
@@ -21,13 +21,13 @@
         "phpstan/phpstan-phpunit": "0.12.21",
         "phpstan/phpstan-strict-rules": "0.12.10"
     },
+    "bin": [
+        "bin/ci-tools"
+    ],
     "config": {
         "optimize-autoloader": true,
         "sort-packages": true
     },
-    "bin": [
-        "bin/ci-tools"
-    ],
     "scripts": {
         "ci": [
             "@composer-normalize",
