@@ -15,11 +15,11 @@
     ],
     "require": {
         "php": "^7.4 || ^8.0",
-        "phpstan/phpstan": "0.12.93",
-        "phpstan/phpstan-deprecation-rules": "0.12.6",
-        "phpstan/phpstan-doctrine": "0.12.42",
-        "phpstan/phpstan-phpunit": "0.12.21",
-        "phpstan/phpstan-strict-rules": "0.12.10"
+        "phpstan/phpstan": "1.9.1",
+        "phpstan/phpstan-deprecation-rules": "1.0.0",
+        "phpstan/phpstan-doctrine": "1.3.22",
+        "phpstan/phpstan-phpunit": "1.2.2",
+        "phpstan/phpstan-strict-rules": "1.4.4"
     },
     "bin": [
         "bin/ci-tools"
