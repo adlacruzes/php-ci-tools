@@ -2,7 +2,7 @@
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg?style=flat-square)](https://php.net/)
 ![Github actions](https://github.com/adlacruzes/php-ci-tools/workflows/Continuous%20Integration/badge.svg?branch=master)
-                 
+
 PHP continuous integration tools is a library with the latest versions of my favorite PHP tools.
 
 ## Installation
@@ -11,7 +11,7 @@ The recommended way to install is through Composer.
 
 ```sh
 composer require adlacruzes/php-ci-tools
-``` 
+```
 
 ## Usage
 
@@ -28,7 +28,7 @@ vendor/bin/ci-tools COMMAND
 | composer-normalize       | 2.28.3  | https://github.com/ergebnis/composer-normalize     |
 | composer-require-checker |  3.2.0  | https://github.com/maglnet/ComposerRequireChecker  |
 | infection                | 0.24.0  | https://github.com/infection/infection             |
-| php-cs-fixer             | 3.13.0  | https://github.com/FriendsOfPHP/PHP-CS-Fixer       |
+| php-cs-fixer             | 3.14.4  | https://github.com/FriendsOfPHP/PHP-CS-Fixer       |
 | phpcbf                   |  3.7.1  | https://github.com/squizlabs/PHP_CodeSniffer       |
 | phpcs                    |  3.7.1  | https://github.com/squizlabs/PHP_CodeSniffer       |
 | phpstan                  | 1.9.1   | https://github.com/phpstan/phpstan                 |
