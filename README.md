@@ -31,4 +31,4 @@ vendor/bin/ci-tools COMMAND
 | php-cs-fixer             | 3.14.4  | https://github.com/FriendsOfPHP/PHP-CS-Fixer       |
 | phpcbf                   |  3.7.1  | https://github.com/squizlabs/PHP_CodeSniffer       |
 | phpcs                    |  3.7.1  | https://github.com/squizlabs/PHP_CodeSniffer       |
-| phpstan                  | 1.9.1   | https://github.com/phpstan/phpstan                 |
+| phpstan                  | 1.9.17  | https://github.com/phpstan/phpstan                 |
